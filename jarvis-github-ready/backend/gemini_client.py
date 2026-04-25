@@ -28,7 +28,7 @@ if not API_KEY:
 genai.configure(api_key=API_KEY)
 
 SYSTEM_INSTRUCTION = (
-    "You are JARVIS, a personal AI assistant for a college student named Y-Dawg. "
+    "You are JARVIS, a personal AI assistant for a college student named Yash. "
     "You have tools to read his Gmail, read his Google Calendar, and search the web. "
     "Use tools freely whenever they would help answer the question. "
     "If a question needs data from multiple tools (e.g. comparing email content "
