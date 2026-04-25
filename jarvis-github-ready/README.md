@@ -1,4 +1,5 @@
-# JARVIS
+# JARVIS - PERSONAL AI AGENT 
+
 
 A personal AI assistant chatbot that can read your Gmail, check your Google
 Calendar, and search the web — all from a single chat interface.
